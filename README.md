@@ -1,22 +1,22 @@
 # FUTURE_DS_01: E-commerce Dashboard (Power BI)
 
-🚀 **Internship Task 1** for Future Interns (https://www.linkedin.com/company/future-interns/posts/?feedView=all)
-📊 **Domain:** Data Science & Analytics  
-🔧 **Tool Used:** Power BI  
-📁 **File:** `Future Interns 01.pbix` (1.3GB, managed with Git LFS)
+**Internship Task 1** for Future Interns (https://www.linkedin.com/company/future-interns/posts/?feedView=all)
+**Domain:** Data Science & Analytics  
+**Tool Used:** Power BI  
+**File:** `Future Interns 01.pbix` (1.3GB, managed with Git LFS)
 
 ---
 
-## 🔍 Task Objective
+## Task Objective
 
 Analyze e-commerce data to identify:
-- 📈 Best-selling products
-- 💰 High-revenue categories
-- 📅 Monthly/seasonal sales trends
+- Best-selling products
+- High-revenue categories
+- Monthly/seasonal sales trends
 
 ---
 
-## 💡 Skills Applied
+## Skills Applied
 
 - Power BI Dashboard Design
 - DAX Calculations
@@ -26,25 +26,25 @@ Analyze e-commerce data to identify:
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 Screenshots available in the Screenshots folder
 
 ---
 
-## 📂 Data Used
+## Data Used
 
 https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ---
 
-## 🧠 Insights Gained
+## Insights Gained
 
 See [`Insights/insights.md`](./Insights/insights.md) for key findings and dashboard observations.
 
 ---
 
-## 🧰 How to Use
+## How to Use
 
 1. Clone or download this repository:
 - Click the green “Code” button on the repo and choose Download ZIP
